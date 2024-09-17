@@ -21,7 +21,7 @@ The goal of this project is to classify tumors as either malignant (M) or benign
 To get started, clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/CYBki/Logistic-Regression-with-Custom-Implementation.git)
+git clone https://github.com/CYBki/Logistic-Regression-with-Custom-Implementation.git
 ```
 
 Then, install the required dependencies:
